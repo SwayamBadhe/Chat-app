@@ -14,7 +14,7 @@ This is the frontend part of a real-time chat application developed using React.
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/SwayamBadhe/Chat-app.git
 
 2. Navigate to the frontend folder:
    ```bash
