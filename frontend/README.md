@@ -28,5 +28,27 @@ This is the frontend part of a real-time chat application developed using React.
    ```bash
    npm start
 
+## Configuration
+
+To integrate with [Chat Engine](https://chatengine.io/), you need to set up environment variables. Follow these steps:
+
+- Create a file named `.env` in the `frontend` folder.
+
+- Open the `.env` file and add the Chat Engine project ID:
+
+```
+REACT_APP_CHAT_PROJECT_ID=your-chat-engine-project-id
+```
+
+- Replace `your-chat-engine-project-i`d with the actual project ID from your Chat Engine account.
+
+Save the `.env` file.
+
+- Restart your development server:
+
+```
+npm start
+```
+- Now, your Chat Engine project ID is securely stored in the environment variable, and your React application can access it during runtime.
 
   
