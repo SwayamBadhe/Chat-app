@@ -49,7 +49,7 @@ To integrate with [Chat Engine](https://chatengine.io/), you need to set up envi
 REACT_APP_CHAT_PROJECT_ID=your-chat-engine-project-id
 ```
 
-- Replace `your-chat-engine-project-i`d with the actual project ID from your Chat Engine account.
+- Replace `your-chat-engine-project-id` with the actual project ID from your Chat Engine account.
 
 Save the `.env` file.
 
