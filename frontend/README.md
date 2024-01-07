@@ -16,17 +16,26 @@ This is the frontend part of a real-time chat application developed using React.
    ```bash
    git clone https://github.com/SwayamBadhe/Chat-app.git
 
+   ```
+
 2. Navigate to the frontend folder:
+
    ```bash
    cd frontend
 
+   ```
+
 3. Install dependencies:
+
    ```bash
     npm install
 
+   ```
+
 4. Run the application:
    ```bash
-   npm start
+   npm run dev
+   ```
 
 ## Configuration
 
@@ -49,6 +58,5 @@ Save the `.env` file.
 ```
 npm start
 ```
-- Now, your Chat Engine project ID is securely stored in the environment variable, and your React application can access it during runtime.
 
-  
+- Now, your Chat Engine project ID is securely stored in the environment variable, and your React application can access it during runtime.
